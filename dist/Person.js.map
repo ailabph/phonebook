@@ -1,0 +1,1 @@
+{"version":3,"file":"Person.js","sourceRoot":"","sources":["../src/Person.ts"],"names":[],"mappings":";;;AACA,MAAa,MAAM;IAKjB,YAAY,UAAkB,EAAE,SAAiB,EAAE,GAAW;QAC5D,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;QAC7B,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;QAC3B,IAAI,CAAC,GAAG,GAAG,GAAG,CAAC;IACjB,CAAC;CACF;AAVD,wBAUC"}
