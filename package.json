@@ -1,6 +1,6 @@
 {
   "name": "@ailabph/phonebook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "eslint": "^8.32.0",
     "mocha": "^10.2.0",
