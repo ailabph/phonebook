@@ -1,2 +1,2 @@
-import { Phonebook} from "../types/index";
+import { Phonebook} from "./types";
 export default Phonebook;
