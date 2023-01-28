@@ -1,4 +1,4 @@
-import { Person, Address } from "./types/index";
+import { Person, Address } from "../types/index";
 export class Phonebook{
 
   public id:number;
